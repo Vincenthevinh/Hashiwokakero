@@ -37,7 +37,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Vincenthevinh/Hashiwokakero.git
-cd Hashiwokakero
+cd -tên thư mục-
 ```
 Install the required packages:
 
@@ -53,6 +53,7 @@ python AStarSolver.py             # Run A* algorithm
 python BacktrackingSolver.py     # Run Backtracking
 python BruteForceSolver.py       # Run Brute Force
 python SATSolver.py              # Run SAT Solver
+python main.py                   # Run the game 
 ```
 You can modify the input board or adjust the logic in each file depending on your puzzle data.
 
