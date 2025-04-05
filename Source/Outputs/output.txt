@@ -1,0 +1,6 @@
+A* solution:
+Thời gian (A*): 11.0769 ms
+
+pySAT solution:
+Thời gian (pySAT): 0.2341 ms
+

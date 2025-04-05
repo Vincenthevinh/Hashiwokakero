@@ -1,0 +1,32 @@
+=== A* solution ===
+2 - 2 0
+| 0 | 0
+1 0 | 0
+0 0 1 0
+Thời gian (A*): 0.9959 ms
+Memory usage (A*): 0.0469 MB
+
+=== pySAT solution ===
+2 - 2 0
+| 0 | 0
+1 0 | 0
+0 0 1 0
+Thời gian (pySAT): 3.5410 ms
+Memory usage (pySAT): 0.0664 MB
+
+=== Backtracking solution ===
+2 - 2 0
+| 0 | 0
+1 0 | 0
+0 0 1 0
+Thời gian (Backtracking): 0.0000 ms
+Memory usage (Backtracking): 0.0039 MB
+
+=== Brute Force solution ===
+2 - 2 0
+| 0 | 0
+1 0 | 0
+0 0 1 0
+Thời gian (Brute Force): 6844.6131 ms
+Memory usage (Brute Force): 0.0352 MB
+
